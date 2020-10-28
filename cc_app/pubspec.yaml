@@ -33,12 +33,11 @@ dependencies:
   flutter_svg: ^0.19.0  # helps with using SVG 
 
   firebase_core: ^0.4.0+9
-  cloud_firestore: ^0.13.2+1
+  cloud_firestore: ^0.13.2+1 # ^0.12.9+4
   firebase_auth: ^0.16.0
   google_sign_in: ^4.5.3
 
   provider: ^3.1.0
-
 
 dev_dependencies:
   flutter_test:

@@ -29,7 +29,7 @@ First release:
 - Xcode
 = firebase firestore
 - firebase auth
-- Looking for [RESTAPI](https://github.com/jcheon/capstone_api_server)
+- Looking for [RESTAPI](https://github.com/jcheon/capstone_api_server)?
 
 ### Getting started TODO
 git clone <br/>

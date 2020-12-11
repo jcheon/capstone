@@ -38,6 +38,9 @@ I hope this app could help others that have lots of credit cards or want to maxi
 - FINAL REQUIREMENT: Does app display nearest stores with best credit card to use? 
   - Users should be shown which stores are close to them and which cards they should use. 
   - Does the app provide which card is best for a particular store? 
+  
+  
+Requirements completion estimation: 90% (Check Release Notes for more information)
 
 
 ## Release Notes

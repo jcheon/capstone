@@ -64,4 +64,6 @@ v 0.0.2 preview
 - Google Places API
 - Uvicorn 
 - FastAPI
-- Looking for [RESTAPI](https://github.com/jcheon/capstone_api_server)?
+
+### Looking for the REST API? 
+[Here in another repo](https://github.com/jcheon/capstone_api_server)
